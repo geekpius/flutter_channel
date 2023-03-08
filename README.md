@@ -1,6 +1,8 @@
 # flutter_channel
 
-A new Flutter project.
+A new Flutter project for implement channels to communicate with iOS.
+
+https://www.flutterclutter.dev/images/posts/2020-07-14-flutter-channels/flutter-channels.svg
 
 ## Getting Started
 
